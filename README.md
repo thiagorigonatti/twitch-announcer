@@ -35,7 +35,6 @@ To introduce [TwitchAnnouncer](#TwitchAnnouncer) bot in your discord server, use
 **Unsubscribes a streamer, cancel the announcement for the channel.**
 
 ## Behavior
-The bot status will keep changing to show all subscribed streamers in its status as `streaming: streamer` and a clicable link button to it.
 
 If you subscribe an already subscribed streamer in the same channel, it will overwrite the options that you have supplied.
 
